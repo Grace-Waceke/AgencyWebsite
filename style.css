@@ -86,7 +86,7 @@
 }
 .service{
     text-align: center;
-    margin-top: 20%;
+    margin-top: 8%;
 }
 .agency{
     text-align: center;
@@ -117,10 +117,49 @@
 }
 .image2{
     margin-left: -8%;
-    margin-top:  5%;
-    background-image: url('splash.jpeg');
-    background: repeat no-repeat;
-
+    margin-top:  -1%;
+    background-image: url(paint.jpg);
+    /* background: repeat no-repeat; */
+    width: 50%;
+    height: 30%;
+    margin-right: 20%;
+}
+.image3{
+    margin-left: 42%;
+    margin-top:  -20%;
+    background-image: url(paint.jpg);
+    /* background: repeat no-repeat; */
+    width: 50%;
+    height: 30%;
+    margin-right: 20%;
+}
+.media{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.update{
+    text-align: center;
+    margin-top: 10%;
+}
+.address{
+    border: solid 1px green;
+    border-radius: 20px;
+    background-color: green;
+    text-align: left;
+    width: 510px;
+    margin-left: 30%;
+    height: 60px;
+    padding-right: 20px;
+}
+.subscribe{
+    border: solid 1px blue;
+    border-radius: 15px;
+    background-color: blue;
+    width: 100px;
+    margin-left: 60%;
+    margin-top: -3%;
+    height: 30px;
 }
 .ideas{
     margin-left: 60%;
@@ -154,4 +193,35 @@
     margin-left: -70px;
     margin-bottom: -6.8%;
     margin-left: -5%;
+}
+.work{
+    margin-left: 5%;
+    margin-top: 10%;
+    font-size: 20px;
+}
+.name{
+    margin-left: 5%;
+    margin-top: -13%;
+}
+#inputbox{
+    margin-left: 5%;
+    border: solid 1px rgb(204, 202, 195);
+    border-radius: 15px;
+    background-color:rgb(204, 202, 195) ;
+    width: 500px;
+    height: 50px;
+}
+.message{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.send{
+    margin-left: 15%;
+    margin-left: 10%;
+    border: solid 1px rgb(204, 202, 195);
+    border-radius: 15px;
+    background-color:rgb(15, 71, 15) ;
+    width: 145px;
+    height: 60px;
+
 }
