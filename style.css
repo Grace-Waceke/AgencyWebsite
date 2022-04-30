@@ -203,6 +203,10 @@
     margin-left: 5%;
     margin-top: -13%;
 }
+.icons{
+    margin-left: 4.5%;
+    margin-top: 6%;
+}
 #inputbox{
     margin-left: 5%;
     border: solid 1px rgb(204, 202, 195);
@@ -223,5 +227,8 @@
     background-color:rgb(15, 71, 15) ;
     width: 145px;
     height: 60px;
-
 }
+/* .close{
+    border: solid 1px lightgray;
+    background-color: lightgray;
+} */
