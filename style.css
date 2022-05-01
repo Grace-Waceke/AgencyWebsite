@@ -31,7 +31,8 @@
 }
 .intro{
     margin-left: 4.5%;
-    margin-top: 5%;
+    /* margin-top: 5%; */
+    margin-bottom: 15%;
 }
 .intro h1{
     font-size: 70px;
@@ -55,14 +56,14 @@
     width: 120px;
 }
 .image1{
-    margin-left: 50%;
-    margin-top: -30%;
-    background-image: url('splash.jpeg');
+    margin-left: 60%;
+    margin-top: -40%;
     /* background: no-repeat; */
 }
 .table{
     display: flex;
     background-color: white;
+    margin-top: 15%;
 }
 .table1{
     margin-left: 5%;
@@ -116,19 +117,15 @@
     background-color: darkgreen;
 }
 .image2{
-    margin-left: -8%;
-    margin-top:  -1%;
-    background-image: url(paint.jpg);
-    /* background: repeat no-repeat; */
+    margin-left: 5%;
+    margin-top:  5%;
     width: 50%;
     height: 30%;
     margin-right: 20%;
 }
 .image3{
-    margin-left: 42%;
-    margin-top:  -20%;
-    background-image: url(paint.jpg);
-    /* background: repeat no-repeat; */
+    margin-left: 52%;
+    margin-bottom:40%;
     width: 50%;
     height: 30%;
     margin-right: 20%;
@@ -201,7 +198,7 @@
 }
 .name{
     margin-left: 5%;
-    margin-top: -13%;
+    margin-top: -63%;
 }
 .icons{
     margin-left: 4.5%;
@@ -228,7 +225,3 @@
     width: 145px;
     height: 60px;
 }
-/* .close{
-    border: solid 1px lightgray;
-    background-color: lightgray;
-} */
