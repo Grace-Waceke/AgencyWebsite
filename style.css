@@ -46,12 +46,15 @@
     margin-left: 4.5%;
     height: 50px;
     width: 120px;
+    margin-top: -65%;
 }
 .btn2{
     background-color: white;
     border-radius: 500px;
     margin-left: 2%;
-    margin-top: -40px;
+    margin-top: -65%;
+
+    /* margin-top: -40px; */
     height: 50px;
     width: 120px;
 }
@@ -159,37 +162,48 @@
     height: 30px;
 }
 .ideas{
-    margin-left: 60%;
+    margin-left: 65%;
     margin-top: -28%;
-    font-size: -50%;
+    font-size: -70%;
     font-style: normal;
+}
+.main{
+    background-color:white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+body{
+    background-color: rgb(230,230,250);
+    border-radius: 3px;
 }
 .number1{
     border: solid green 1px;
     background-color: green;
-    border-radius: 5px;
-    width: 25px;
-    margin-left: -70px;
+    border-radius: 10px;
+    width: 23px;
+    margin-left: -60px;
     margin-bottom: -6.8%;
-    margin-left: -5%;
+    margin-left: -3%;
 }
 .number2{
     border: solid blue 1px;
     background-color: blue;
     border-radius: 5px;
-    width: 25px;
-    margin-left: -70px;
+    width: 23px;
+    margin-left: -60px;
     margin-bottom: -6.8%;
-    margin-left: -5%;
+    margin-left: -3%;
 }
 .number3{
     border: solid orange 1px;
     background-color: orange;
     border-radius: 5px;
-    width: 25px;
-    margin-left: -70px;
+    width: 23px;
+    margin-left: -60px;
     margin-bottom: -6.8%;
-    margin-left: -5%;
+    margin-left: -3%;
 }
 .work{
     margin-left: 5%;
@@ -224,4 +238,7 @@
     background-color:rgb(15, 71, 15) ;
     width: 145px;
     height: 60px;
+}
+.logo{
+    margin-bottom: -10%;
 }
